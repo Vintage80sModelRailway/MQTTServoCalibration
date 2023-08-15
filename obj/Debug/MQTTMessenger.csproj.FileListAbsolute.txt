@@ -1,0 +1,13 @@
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\obj\Debug\MQTTMessenger.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\obj\Debug\MQTTMessenger.Form1.resources
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\obj\Debug\MQTTMessenger.Properties.Resources.resources
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\obj\Debug\MQTTMessenger.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\obj\Debug\MQTTMessenger.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\bin\Debug\MQTTMessenger.exe.config
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\bin\Debug\MQTTMessenger.exe
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\bin\Debug\MQTTMessenger.pdb
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\bin\Debug\MQTTnet.dll
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\bin\Debug\MQTTnet.xml
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\obj\Debug\MQTTMessenger.csproj.CopyComplete
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\obj\Debug\MQTTMessenger.exe
+C:\Users\chris\source\repos\MQTTMessenger\MQTTMessenger\obj\Debug\MQTTMessenger.pdb
